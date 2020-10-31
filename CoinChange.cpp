@@ -29,6 +29,6 @@ int main()
 	            }
 	        }
 	    }
-	    cout<<dp[M]<<endl;
+	    cout<<dp[M]<<"\n";
     }
 }
